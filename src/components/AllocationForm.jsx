@@ -51,11 +51,11 @@ const AllocationForm = (props) => {
               {" "}
               Marketing
             </option>
-            <option value="Sales" name="sales">
-              Sales
-            </option>
             <option value="Finance" name="finance">
               Finance
+            </option>
+            <option value="Sales" name="sales">
+              Sales
             </option>
             <option value="Human Resource" name="Human Resource">
               HR
